@@ -6,12 +6,12 @@
 
 Updated in 19.01.2020
 
-AlRarum built the «Paints: colors combo» app as an Ad Supported app. This app is provided by AlRarum at no cost and is intended for use «as is».
+AlRarum built the «Colors: combo» app as an Ad Supported app. This app is provided by AlRarum at no cost and is intended for use «as is».
 This Privacy Policy is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my app.
 
 If you choose to use my app, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the app. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-You can stop all collection of information by the «Paints: colors combo» app easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+You can stop all collection of information by the «Colors: combo» app easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
 
 #1. Overview
