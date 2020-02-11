@@ -4,7 +4,7 @@
 
 Версия на русском: https://alrarum.github.io/Policy-Paints-Mix-RUS/
 
-Updated in 19.01.2020
+Updated in 11.02.2020
 
 AlRarum built the «Colors: combo» app as an Ad Supported app. This app is provided by AlRarum at no cost and is intended for use «as is».
 This Privacy Policy is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my app.
